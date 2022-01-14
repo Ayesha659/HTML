@@ -1,0 +1,15 @@
+body{
+    background-image:url("https://png.pngtree.com/thumb_back/fw800/back_pic/04/38/89/27584d141718bdd.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#para1{
+    text-align: center;
+    border-style: solid solid solid solid;
+}
+#para2{
+    text-align: center;
+    font-size: 150%;
+    border-style: solid none none none;
+}
